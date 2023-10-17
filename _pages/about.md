@@ -1,3 +1,11 @@
+<!--
+ * @Description: 
+ * @Version: 1.0
+ * @Autor: Shijie Cong
+ * @Date: 2023-10-16 18:13:57
+ * @LastEditors: Shijie Cong
+ * @LastEditTime: 2023-10-16 18:52:35
+-->
 ---
 layout: about
 title: about
@@ -9,8 +17,8 @@ profile:
   image: shijie.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
+    <p>Lizhaoji Building</p>
+    <p>Shuangqing street</p>
     <p>Beijing, China</p>
 
 news: true  # includes a list of news items
