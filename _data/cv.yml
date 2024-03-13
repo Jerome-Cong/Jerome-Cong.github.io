@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Shijie Cong
     - name: Date of Birth
-      value: 14th March 1879
+      value: 27th Aug 1998
     - name: Languages
-      value: English, German
+      value: Mandarian, English
 
 - title: Education
   type: time_table
