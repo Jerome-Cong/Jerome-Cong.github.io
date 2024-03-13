@@ -1,11 +1,3 @@
-<!--
- * @Description: 
- * @Version: 1.0
- * @Autor: Shijie Cong
- * @Date: 2023-10-17 10:29:37
- * @LastEditors: Shijie Cong
- * @LastEditTime: 2024-03-13 10:32:57
--->
 ---
 layout: about
 title: about
