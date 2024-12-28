@@ -9,8 +9,8 @@ profile:
   image: shijie.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Lizhaoji Building</p>
-    <p>Shuangqing street</p>
+    <p> Lee Shau Kee Science and Technology Building</p>
+    <p>Tsinghua University</p>
     <p>Beijing, China</p>
 
 news: true  # includes a list of news items
@@ -19,9 +19,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, I'm currently a research engineer in the ETS lab of Tsinghua University with Prof. Xiaobo Qu. And I will start my PhD here from 2024 fall advised by Prof. Xiaobo Qu and Prof. Kai Wang. Previously, I received my Bachelor's degree of Engineering in 2020 from Beijing Institute of Technology and my Master's degree of Science in 2023 from TU Delft.
+Hi, I'm currently a PhD student in the ETS lab of Tsinghua University supervised by Prof. Xiaobo Qu and Prof. Kai Wang. Previously, I received my Bachelor's degree of Engineering in 2020 from Beijing Institute of Technology and my Master's degree of Science in 2023 from TU Delft.
 
-My main research interest lies in the decision-making and motion planning of autonomous robots, Reinforcement Learning, and Graph Neural Networks.
+My main research interest lies in learning-based decision-making and motion planning of autonomous vehicles.
 
 Academic service: reviewer of T-IV, T-SMC, T-CYBER, and COMMTR
 
